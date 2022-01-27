@@ -1,0 +1,11 @@
+title: Domingos Latorre
+email: contato@domingoslatorre.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Tutoriais para desenvolvedores de software. Foco em Java, Kotlin, Spring, Test, e mais.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  domingoslatorre
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
